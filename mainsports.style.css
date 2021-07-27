@@ -1,7 +1,10 @@
+
+
+
 .contaner-1{
     border: black 4px solid;
     height: 70px;
-     background-color: greenyellow ;
+    background-color: greenyellow ;
      
 }
 
@@ -51,3 +54,17 @@
     border: black 4px solid;
     background-color: cornflowerblue;margin: 10px ;
 }
+
+
+div {
+    background-color: tomato;
+}
+/* 
+اولویت ها - ترتیب
+
+
+1- inline style
+2- CSS Class
+3- Selectors
+
+ */
